@@ -1,0 +1,22 @@
+NPCmd:
+ 45.32.59.85: "Lucia Server"
+SecureAuth:
+ 45.32.59.85: "Lucia Server"
+SimpleTag:
+ 45.32.59.85: "Lucia Server"
+SimpleWarp:
+ 45.32.59.85: "Lucia Server"
+SmartBlock:
+ 45.32.59.85: "Lucia Server"
+IcShop:
+ 45.32.59.85: "Lucia Server"
+KillExp:
+ 45.32.59.85: "Lucia Server"
+LevelManager:
+ 45.32.59.85: "Lucia Server"
+SpecialAbility:
+ 45.32.59.85: "Lucia Server"
+StatManager:
+ 45.32.59.85: "Lucia Server"
+TerrorManager:
+ 45.32.59.85: "Lucia Server"
