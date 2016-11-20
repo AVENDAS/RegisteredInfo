@@ -1,0 +1,2 @@
+# RegisteredInfo
+Registered Plugin info
