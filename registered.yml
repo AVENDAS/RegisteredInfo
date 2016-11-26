@@ -1,10 +1,13 @@
 NPCmd:
  45.32.59.85: "Lucia Server"
 SecureAuth:
+ 150.95.132.187: "TreeOnline"
  45.32.59.85: "Lucia Server"
 SimpleTag:
+ 150.95.132.187: "TreeOnline"
  45.32.59.85: "Lucia Server"
 SimpleWarp:
+ 150.95.132.187: "TreeOnline"
  45.32.59.85: "Lucia Server"
 SmartBlock:
  45.32.59.85: "Lucia Server"
@@ -24,3 +27,4 @@ StatManager:
  45.32.59.85: "Lucia Server"
 TerrorManager:
  45.32.59.85: "Lucia Server"
+ 150.95.132.187: "TreeOnline"
