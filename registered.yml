@@ -18,12 +18,16 @@ IcShop:
  45.32.53.206: "MintOS"
  45.32.59.85: "Lucia Server"
 KillExp:
+ 119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
 LevelManager:
+ 119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
 SpecialAbility:
+ 119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
 StatManager:
+ 119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
 TerrorManager:
  45.32.59.85: "Lucia Server"
