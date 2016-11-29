@@ -4,9 +4,11 @@ SecureAuth:
  150.95.132.187: "TreeOnline"
  45.32.59.85: "Lucia Server"
 SimpleTag:
+ 45.76.202.56: "VEKA"
  150.95.132.187: "TreeOnline"
  45.32.59.85: "Lucia Server"
 SimpleWarp:
+ 45.76.202.56: "VEKA"
  150.95.132.187: "TreeOnline"
  45.32.59.85: "Lucia Server"
 SmartBlock:
@@ -34,3 +36,4 @@ StatManager:
 TerrorManager:
  45.32.59.85: "Lucia Server"
  150.95.132.187: "TreeOnline"
+ 45.76.202.56: "VEKA"
