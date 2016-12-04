@@ -29,10 +29,13 @@ KillExp:
 LevelManager:
  119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
+ 121.168.38.38: "미래서버"
 SpecialAbility:
+ 121.168.38.38: "미래서버"
  119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
 StatManager:
+ 121.168.38.38: "미래서버"
  119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
 TerrorManager:
