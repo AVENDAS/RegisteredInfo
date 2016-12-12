@@ -32,6 +32,7 @@ KillExp:
  45.76.202.56: "VEKA"
  119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
+ 220.77.216.136: "IRON" 
 LevelManager:
  211.115.84.152: "ZEO"
  45.76.202.56: "VEKA"
@@ -40,6 +41,7 @@ LevelManager:
  119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
  121.168.38.38: "미래서버"
+ 220.77.216.136: "IRON" 
 SpecialAbility:
  211.115.84.152: "ZEO"
  45.76.202.56: "VEKA"
@@ -48,7 +50,9 @@ SpecialAbility:
  119.70.150.207: "FMS Online"
  45.32.59.85: "Lucia Server"
  45.249.90.144: "유안"
+ 220.77.216.136: "IRON" 
 StatManager:
+ 220.77.216.136: "IRON"
  211.115.84.152: "ZEO"
  45.76.202.56: "VEKA"
  45.249.90.196: "플버온라인"
